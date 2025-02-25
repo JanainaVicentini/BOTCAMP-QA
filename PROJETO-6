@@ -1,0 +1,93 @@
+## PROJETO SPRINT 6
+
+#### Introdução:
+
+Neste sprint, você irá concluir o projeto final.
+
+- Serão três grandes tarefas.
+- A primeira tarefa é teórica e vai verificar seu conhecimento sobre os principais aspectos de teste, você vai responder a perguntas semelhantes em entrevistas de emprego.
+- As tarefas 2 e 3 são práticas, e vão verificar se você sabe analisar e fazer o design de testes; ou seja, se você sabe como testar aplicativos da web e APIs.
+- Irá ser testdo o aplicativo Urban.Scooter: um serviço que permite alugar uma scooter elétrica por alguns dias.
+
+##### Objetivo:
+
+O que precisa ser feito:
+
+- Observe que você não precisa testar todo o aplicativo. - Examine o que exatamente você precisa testar.
+- Estude a documentação do aplicativo em cada tarefa. Ela está armazenada como uma lista de requisitos e designs, bem como requisitos para as URLs para as quais o aplicativo envia dados.
+- Crie um mapa mental para visualizar os requisitos onde for necessário.
+- Divida os recursos em blocos atômicos e defina objetos de teste.
+- Faça o design de testes para lidar com todos os requisitos.
+- Aplique classes de equivalência, valores-limite e uma tabela de decisão quando apropriado.
+- Otimize o número de testes nos testes de interface de usuário e testes lógicos dos recursos.
+- Execute testes e faça relatórios de bugs, se necessário.
+- Use o DevTools ou Postman para verificar solicitações para determinadas URLs.
+
+Como faço para formatar o projeto?
+Formatação do projeto
+Você vai precisar do modelo de projeto final. Crie uma cópia do documento e coloque os resultados de todas as tarefas lá:
+o link da planilha do Google, a imagem do mapa mental e os links dos relatórios de bugs do Jira. Permita o acesso com comentários e anexe um link para o trabalho na plataforma na guia "Revisar".
+
+Algumas das tarefas precisam ser feitas em uma planilha do Google.
+
+Ao testar, registre o resultado do teste: APROVADO ou REPROVADO. Se o teste for REPROVADO, faça um relatório de bug no Jira e insira o ID na tabela de resultados apropriada.
+
+#### Atenção:
+
+- 1-Em primeiro lugar, seu foco deve estar nas funcionalidades da tarefa. Elas estão destacadas em negrito no texto. A tarefa determina quais áreas não precisam ser testadas.
+- 2-Ao começar a testar o layout, preste mais atenção aos requisitos, pois eles são a fonte original, enquanto os designs são um adicional.
+- 3-Ao começar a fazer relatórios de bugs, concentre-se nos recursos que você precisa verificar conforme a tarefa. Será ótimo se você encontrar outros bugs, mas isso é opcional.
+
+### Tarefa 1: Para testar a teoria
+
+Esta tarefa vai verificar seu conhecimento da teoria de testes. Você vai encontrar perguntas semelhantes em entrevistas de emprego.
+Responda às perguntas do modelo na aba "Tarefa 1". Escreva suas respostas diretamente no modelo.
+As perguntas podem ser respondidas de forma livre. Sua resposta deve estar relacionada apenas à pergunta, tente não entrar em outros tópicos.
+Elabore as respostas com suas próprias palavras para garantir que você se lembre mais facilmente da teoria no futuro.
+
+### Tarefa 2: Aplicativo da web Urban Scooter
+
+- Teste o aplicativo da web Urban Scooter.
+- Aqui está o que é preciso ser feito:
+- 1- Atente-se às informações técnicas ao iniciar o aplicativo, pois elas descrevem o acesso ao servidor, ao banco de dados e aos endereços da API.
+- 2-Estude os requisitos aqui.
+- 3-Tarefa adicional: você pode desenvolver um mapa mental do recurso de formulário de solicitação e enviá-lo para revisão. Isso é opcional.
+- 4-Crie um checklist dos requisitos de recursos para a tela "Status do pedido".
+- 5-Crie testes para validar os campos da tela "Fazer pedido". - 6-Preencha-os como uma tabela de acordo com o modelo.
+- 7-Teste todos os recursos usando não apenas as listas de verificação/tabelas resultantes, mas também o restante dos projetos e requisitos. Não há necessidade de verificar a página de destino (landing page). Os projetos no Figma estão aqui.
+- 8-Preparando os resultados
+- 9-Anexe a lista de verificação de teste de aplicativo ao modelo:
+
+aba "Tarefa 2: lista de verificação"
+aba "Tarefa 2: dados de validação"
+A lista de verificação deve conter os resultados dos testes que você executou e os relatórios de bugs que você criou.
+
+### Tarefa 3: API do aplicativo Urban.Scooter
+
+- Teste os recursos da API do aplicativo.
+- O que precisa ser feito
+- 1-Preste atenção nas informações técnicas ao iniciar o aplicativo.
+- 2-Examine os requisitos de back-end e a documentação da API. - 3-Os requisitos do back-end estão aqui.
+- 4-Crie um checklist e teste a API em relação aos requisitos em negrito.
+- Preparação dos resultados
+- Anexe o checklist da API ao modelo na aba "Tarefa 3: checklist".
+- O checklist deve conter os resultados dos testes e relatórios de bugs.
+
+
+#### Janaina Vicentin.
+
+#### Projeto:
+
+https://docs.google.com/document/d/1Z0VZLkHaF8MdEVfOFxA1RpZstDIv4Csc/edit?usp=sharing&ouid=116466800538018340671&rtpof=true&sd=true
+
+
+
+##### Conclusão:
+
+- A Sprint 6 marcou a conclusão de todo o conteúdo abordado ao longo do curso, consolidando os conhecimentos teóricos e práticos em análise de dados e QA. Durante essa etapa, foram realizados desafios que reforçaram habilidades essenciais para a área.
+- Tarefa 1: Testar a Teoria: Permitiu a aplicação prática dos conceitos aprendidos, com foco em metodologias de teste, identificação de bugs e análise de casos de uso.
+- Tarefa 2: Aplicativo da web Urban Scooter: Proporcionou uma experiência prática de testes funcionais e exploratórios em um ambiente realista, fortalecendo as habilidades de detecção e documentação de falhas.
+- Tarefa 3: API do aplicativo Urban Scooter: O foco foi testar a API do aplicativo, trabalhando com requisições, análise de respostas e validação de endpoints, essenciais para assegurar a integridade e funcionalidade do sistema.
+- Projeto Final: Checklist: Foi elaborado um checklist de testes para garantir a cobertura de cenários críticos e a padronização das verificações realizadas.
+- Entrega do projeto: A etapa final consistiu na entrega de todas as tarefas concluídas, com a devida documentação e análise crítica dos processos realizados.
+- Essa sprint foi fundamental para integrar teoria e prática, desenvolvendo um olhar crítico e detalhista, características essenciais para a atuação como Analista de QA. O encerramento desse ciclo representa um importante passo na transição para o mercado de trabalho, com habilidades sólidas e prontas para serem aplicadas em projetos reais.

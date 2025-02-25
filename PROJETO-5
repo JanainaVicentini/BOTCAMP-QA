@@ -1,0 +1,47 @@
+#### Sprint 5
+
+### Introdução:
+
+- Neste sprint, foram desenvolvidas habilidades em linha de comando e SQL. Aprendi a interagir com o computador por meio de comandos, conectar a servidores remotos via SSH e manipular dados em bancos de dados relacionais, incluindo a junção de tabelas e o uso de instruções básicas e avançadas em SQL.
+
+### Noções básicas de Banco de Dados:
+
+- Introdução ao Console.
+- Sistemas operacionais.
+- Linha de comando.
+- Conectar a um servidor remoto.
+- Entendimento de onde você está.
+- Exibir os conteúdos de um diretório.
+- Ir de um diretório para outro.
+- Gerenciar arquivos e diretórios.
+- Trabalhar com arquivos de texto.
+- Copiar e mover.
+- Filtragem de conteúdo de arquivos.
+- Teste: Sistemas Operacionais e o Console.
+- Introdução ao SQL.
+- Testes de banco de dados.
+- Banco de dados relacional.
+- Primeira Instrução de SQL.
+- Fatias de Dados em SQL.
+- Função de Agregação.
+- Conversão de tipos de dados.
+- Agrupamentos de Dados.
+- Ordenação de Dados.
+- Banco de Dados e Console.
+- Alteração de Dados : INSERT.
+- Alteração de Dados : UPDATE.
+- Alteração de Dados : DELETE.
+- Dump de banco de dados.
+  
+
+- ##### Atividade Teste: 
+  
+- Noções básicas de banco de dados.
+- Conclusão do SQL.
+
+
+###  Conclusão do Sprint 5:
+
+- O Sprint 5 proporcionou uma base sólida em sistemas operacionais, linha de comando e bancos de dados relacionais. Foram desenvolvidas habilidades essenciais para a navegação em diretórios, gerenciamento de arquivos e manipulação de conteúdos via console, além da conexão com servidores remotos.
+- No módulo de SQL, foram abordados comandos fundamentais para consulta e manipulação de dados, como SELECT, INSERT, UPDATE e DELETE, bem como conceitos de funções de agregação, agrupamentos, ordenação e conversão de tipos de dados. Também foi possível compreender a realização de dumps de banco de dados para exportação e backup.
+- O conteúdo assimilado neste sprint é essencial para a atuação prática com bases de dados, especialmente em atividades relacionadas à análise e garantia de qualidade (QA).
